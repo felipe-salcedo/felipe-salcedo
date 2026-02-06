@@ -11,7 +11,8 @@
 
 
 📚 Análise e desenvolvimento de Sistemas (Fatec Sorocaba) - 1/2 anos completos  
-🎓 Formado em Técnico em Desenvolvimento de Sistemas (Etec Fernando Prestes)     
+🎓 Formado em Técnico em Desenvolvimento de Sistemas (Etec Fernando Prestes)  
+🎓 Formado em Análise e Desenvolvimento de Sistemas (Fatec Sorocaba)
 📃 HTML, CSS, JAVASCRIPT, JAVA, PHP  
 📫 Contato: felipesalcedo.ramalho@gmail.com
 
